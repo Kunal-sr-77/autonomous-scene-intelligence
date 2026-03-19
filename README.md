@@ -211,8 +211,4 @@ uvicorn api.app:app --host 0.0.0.0 --port 10000
 - Integrate vector-based retrieval systems  
 - Optimize performance for edge environments  
 
----
 
-## License
-
-This project is intended for educational and research purposes.
