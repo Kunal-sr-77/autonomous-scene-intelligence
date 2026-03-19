@@ -175,23 +175,7 @@ Ensure the key is configured before running the service.
 
 ---
 
-## Deployment
 
-Designed for deployment on Render as a FastAPI service.
-
-### Build Command
-
-```bash
-pip install -r requirements.txt
-```
-
-### Start Command
-
-```bash
-uvicorn api.app:app --host 0.0.0.0 --port 10000
-```
-
----
 
 ## Key Learnings
 
