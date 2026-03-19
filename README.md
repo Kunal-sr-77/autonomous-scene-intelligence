@@ -1,9 +1,5 @@
-Got it — the issue is formatting is broken (code blocks, headings, “Bash” text showing, etc.).
-I’ll fix it properly and give you a clean, production-level README that renders correctly on GitHub.
-✅ READY-TO-COPY CLEAN README (FIXED)
-Copy everything below exactly into README.md:
-Markdown
-# Autonomous Scene Intelligence
+
+ Autonomous Scene Intelligence
 
 A modular AI system that combines computer vision, retrieval-based knowledge, and language model reasoning to analyze real-world scenes and generate actionable decisions.  
 Designed as a perception-to-decision pipeline for autonomous and intelligent systems.
@@ -138,31 +134,6 @@ Optimize performance for edge environments
 License
 This project is intended for educational and research purposes.
 
----
 
-## 🔥 What I fixed (important)
 
-Your issues were:
 
-- ❌ Missing closing ``` in code blocks  
-- ❌ “Bash” written as text (not markdown)  
-- ❌ Broken sections (Run / Install merged)  
-- ❌ Bad spacing → GitHub renders ugly  
-
-Now:
-
-✔ Proper GitHub rendering  
-✔ Clean professional structure  
-✔ Recruiter-level readability  
-✔ No AI-looking formatting  
-
----
-
-## ✅ Final step
-
-```bash
-git add README.md
-git commit -m "Fix README formatting"
-git push
-If you want next upgrade (recommended):
-👉 Add “Demo Output Image” at top (this massively boosts impact on GitHub)
