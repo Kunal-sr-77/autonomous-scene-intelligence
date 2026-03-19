@@ -200,8 +200,4 @@ Future Improvements
 - Integrate vector-based retrieval systems
 - Optimize performance for edge environments
 
----
 
-License
-
-This project is intended for educational and research purposes.
