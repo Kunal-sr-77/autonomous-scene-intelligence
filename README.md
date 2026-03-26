@@ -4,15 +4,6 @@ Perception-to-decision AI system that combines computer vision, retrieval-based 
 
 ---
 
-## Highlights
-
-* Built end-to-end perception-to-decision pipeline using **YOLOv8 + RAG + LLM**
-* Integrated retrieval-based safety rules to improve reliability of model outputs
-* Generated structured decisions: scene description, risk level, and recommended action
-* Deployed system via **FastAPI** for real-time scene analysis
-* Designed modular architecture for integrating perception and reasoning systems
-
----
 
 ## Problem Statement
 
@@ -26,6 +17,16 @@ Key challenges:
 * Generating actionable and interpretable driving decisions
 
 ---
+
+## Core Capabilities
+
+* Built end-to-end perception-to-decision pipeline using **YOLOv8 + RAG + LLM**
+* Integrated retrieval-based safety rules to improve reliability of model outputs
+* Generated structured decisions: scene description, risk level, and recommended action
+* Deployed system via **FastAPI** for real-time scene analysis
+* Designed modular architecture for integrating perception and reasoning systems
+
+ --- 
 
 ## Solution Overview
 
