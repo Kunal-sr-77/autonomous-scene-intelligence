@@ -206,7 +206,7 @@ This forms the foundation for building reliable and interpretable AI systems in 
 * Improve detection precision and filtering
 * Support real-time video input and streaming inference
 * Integrate vector-based retrieval systems
-* Enhance decision validation and evaluation (extended in Project 2)
+* Enhance decision validation and evaluation 
 * Optimize performance for edge deployment
 
 ---
